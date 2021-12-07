@@ -1,0 +1,24 @@
+.wrapper {
+    margin: auto;
+    border: thin solid black;
+    width: 150px;
+    height: 150px;
+    background-color:teal;
+   justify-content: center;
+
+}
+
+
+h1 {
+    text-align: center;
+}
+body{
+    text-align: center; 
+    background-color: pink;
+}
+
+p{
+    height: 40px
+    
+
+}
